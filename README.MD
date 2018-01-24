@@ -1,9 +1,9 @@
 
-#Matrix Multiplication Cluster
+## Matrix Multiplication Cluster
 This project impliments distributed computing architecture to perform matrix multiplication.
 The major dependacy to this project is ZeroMQ. The program runs on IPC mechanism.
 
-#Running the program
+### Running the program
 Follow these steps in order to run the code
 
 1) Start Server:
